@@ -1,0 +1,1 @@
+max poitisons per user is beong basic set to 1 not allowing users to add to a position, we need to have it that a user can add to a position up to the max ownership of a assset
