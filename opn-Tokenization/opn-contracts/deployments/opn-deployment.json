@@ -1,0 +1,32 @@
+{
+  "network": "opn",
+  "chainId": 403,
+  "deployer": "0xD715011858545620E23ac58dB8c9c1bE212A41E5",
+  "timestamp": "2025-11-19T22:18:26.233Z",
+  "blockNumber": 2837461,
+  "contracts": {
+    "OPNAssetRegistry": "0xD65547dFf66D0ACa3D82dC09f7336fB451a90d5D",
+    "OPNPositionNFT": "0xC88133c603D4162939a749cCE4bE1a36a472D3BC",
+    "OPNPrimaryMarket": "0xce00c4145ef8f5a905434786a39D2a7f9a80c149",
+    "OPNSecondaryMarket": "0xAA7CF3C735579E8c4d33d48813e2320B51d6d3a2",
+    "OPNGovernance": "0x1624243eDd28BafE55859882A87678eCC4e4D46D"
+  },
+  "gasUsed": {
+    "OPNAssetRegistry": "2646549",
+    "OPNPositionNFT": "3385421",
+    "OPNPrimaryMarket": "1812595",
+    "OPNSecondaryMarket": "2078583",
+    "OPNGovernance": "2126887"
+  },
+  "configuration": {
+    "usdcAddress": "0x0000000000000000000000000000000000000001",
+    "feeRecipient": "0xD715011858545620E23ac58dB8c9c1bE212A41E5",
+    "adminWallet": "0xd715011858545620E23aC58dB8c9c1Be212A41E5",
+    "platformFee": "250",
+    "marketplaceFee": "200",
+    "approvalThreshold": "5100",
+    "minVotingPeriod": "1 day",
+    "maxVotingPeriod": "30 days"
+  },
+  "version": "1.0.0"
+}
